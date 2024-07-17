@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @vetocoder
-- 👀 I’m interested in Web development and Artificial intelligence
-- 🌱 I’m currently learning the implementation of some major statistical learning algorithms
-- 💞️ I’m looking to collaborate on Open source projects 
-- 📫 How to reach me through my mail address: nguetoum@gmail.com
+- 👋 Hi, I’m @cyrillenguetoum
+- 👀 I develop in R to analyze research data and in PHP to develop websites;
+- 🌱 I'm learning Bayesian Inference for better Statistics;
+- 💞️ I’m looking to collaborate on Open source projects;
+- 📫 Reach me through my mail address: nguetoum@gmail.com
